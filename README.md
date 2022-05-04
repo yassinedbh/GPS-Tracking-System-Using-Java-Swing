@@ -4,7 +4,7 @@ The company X wishes to set up an application for geolocation of its vehicles .
 Each vehicle is equipped with a GPS Tracker (GPS locator), which is a device for transmission to the bursts which has a GPS receiver module and a module GSM/GPRS
 transmitter, and which is used to know the exact position, by satellite, of a vehicle.
 The GPS locator regularly sends geographic coordinates (latitude,longitude) of vehicle.
-The application must offer the possibility of changing the GPS locator from one vehicle to another in the event of a tracker malfunction or in the event of a vehicle breakdown.
+The application must offer the possibility of changing the GPS locator from one vehicle to another in case the malfunction of a tracker or the breakdown of a vehicle.
 ## Tasks :
 - Tracker management
 - Position management
